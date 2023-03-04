@@ -4,7 +4,7 @@
 
 库支持语言：`Python`
 
-库反馈邮箱：[`aleaderkimo@foxmail.com`](mailtoaleaderkimo@foxmail.com)
+库反馈邮箱：[`aleaderkimo@foxmail.com`](mailto:aleaderkimo@foxmail.com)
 
 ---
 
